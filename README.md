@@ -4,7 +4,7 @@ Kotlin lernen
 ## Schere, Stein, Papier
 
 
-Die Aufgabe ist Schere, Stein, Papier mit Hilfe der Programmiersprache Java und dem Spring Framework sowie Spring Boot
+Die Aufgabe ist Schere, Stein, Papier mit Hilfe der Programmiersprache Kotlin und dem Spring Framework sowie Spring Boot
 zu implementieren. Gespielt werden soll mittels REST-Aufrufen gegen den Computer. Die Request- und Response-Bodies
 sollen mittels JSON übergeben bzw. entgegengenommen werden.
 Entwickle so gewissenhaft, wie du auch Software im Alltag entwickeln würdest.
@@ -20,10 +20,9 @@ A = {Schere, Stein, Papier}
 * Stein ist härter als Schere => Stein gewinnt
 
 ## Nicht-funktionale Anforderungen
-1. Die zu verwendende Programmiersprache ist Java in der letzten Major-Version.
+1. Die zu verwendende Programmiersprache ist Kotlin in der letzten Major-Version.
 2. Die Anwendung lässt sich via Apache Maven oder Gradle ohne spezielle Anpassungen erstellen.
-3. Die Anwendung ist Self-Contained und lässt sich direkt starten mit: java -jar <application.jar>
-4. Stelle sicher, dass das Spiel funktioniert
+3. Stelle sicher, dass das Spiel funktioniert
 
 ## Hilfestellungen
 1. https://de.wikipedia.org/wiki/Schere,_Stein,_Papier
